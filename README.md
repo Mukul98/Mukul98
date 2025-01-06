@@ -2,7 +2,6 @@
 
 Professional Developers Personal Account.
 
-<p><img src="https://komarev.com/ghpvc/?username=Mukul98&label=Profile%20views&color=0e75b6&style=flat" alt="Mukul98" /></p>
 
 - 🔭 I’m currently working on a Retrieval-Augmented Generation (RAG) system to enhance AI-driven content retrieval and generation workflows.  
 - 🌱 I’m currently learning MLOps to streamline machine learning model deployment, monitoring, and scalability.  
@@ -23,4 +22,3 @@ Professional Developers Personal Account.
 
 <p><img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=Mukul98&show_icons=true&theme=light&hide=issues&count_private=true&" alt="Mukul98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul98&" alt="Mukul98" /></p>
