@@ -3,7 +3,7 @@
 Professional Developers Personal Account.
 
 
-- 🔭 I’m currently working on a Retrieval-Augmented Generation (RAG) system to enhance AI-driven content retrieval and generation workflows.  
+- 🔭 I’m currently practicing Data Science.  
 - 🌱 I’m currently learning MLOps to streamline machine learning model deployment, monitoring, and scalability.  
 - 👯 I’m looking to collaborate on Full Stack and AI-integrated projects.  
 - 💬 Ask me about Python and AI development strategies.  
