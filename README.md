@@ -3,13 +3,12 @@
 Professional Developers Personal Account.
 
 
-- 🔭 I’m currently practicing Data Science.  
-- 🌱 I’m currently learning MLOps to streamline machine learning model deployment, monitoring, and scalability.  
+- 🔭 I’m currently practicing Data Science and Front-end.   
 - 👯 I’m looking to collaborate on Full Stack and AI-integrated projects.  
 - 💬 Ask me about Python and AI development strategies.  
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:malhotramukul1122@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-malhotra98/)
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’m fascinated by the intersection of technology and creativity—crafting efficient systems that mimic human intelligence.  
+- I’m fascinated by the intersection of technology and creativity—crafting efficient systems that mimic human intelligence.  
 
 
 ### What I do?
